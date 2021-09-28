@@ -2,7 +2,7 @@
 
 <br>
 
-> Programmieren ist wie ein Buch schreiben. Wenn man ein einzelnes Komma auf Seite 156 verpassen, macht das Ganze keinen verdammten Sinn!
+> Programmieren ist wie ein Buch schreiben. Wenn man ein einzelnes Komma auf Seite 156 vergisst, macht das Ganze keinen verdammten Sinn mehr!
 
 <br>
 
