@@ -1,16 +1,14 @@
-### Hi there 👋
+## Ich bin der Asedem (Simon)
 
-<!--
-**Asedem/Asedem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+> Programmieren ist wie ein Buch schreiben. Wenn man ein einzelnes Komma auf Seite 156 verpassen, macht das Ganze keinen verdammten Sinn!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=Asedem&theme=dark" />
+
+<br>
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat)
+![](https://img.shields.io/badge/Editor-Intelli_JIDEA-informational?style=flat)
