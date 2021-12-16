@@ -11,4 +11,4 @@
 <br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat)
-![](https://img.shields.io/badge/Editor-Intelli_JIDEA-informational?style=flat)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat)
