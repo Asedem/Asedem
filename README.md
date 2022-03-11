@@ -4,7 +4,7 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asedem&show_icons=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asedem&show_icons=true&theme=radical" alt="Asedem's Stats"/>
 
 <hr>
 
