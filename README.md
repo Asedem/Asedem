@@ -1,16 +1,18 @@
 <h1 align="center">Hi There 👋, I'm Asedem (Simon) 👩‍💻</h1>
 
-<p align='center'>I live in NRW, Germany 🇩🇪 and i attend the eleventh grade at school 🏫</p>
+<p align='center'>I live in NRW, Germany 🇩🇪 and i attend the twelfth grade at school 🏫</p>
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asedem&show_icons=true&theme=radical" alt="Asedem's Stats"/>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Asedem&show_icons=true&theme=radical" alt="Asedem's Stats"/>
+</p>
 
 <hr>
 
-<h4>🔭  Languages and Frameworks ...</h4>
+<h4 align="center">🔭  Languages and Frameworks ...</h4>
 
-<p>
+<p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;&nbsp;
@@ -25,9 +27,9 @@
 
 <hr>
 
-<h4>🌱  Operating Systems ...</h4>
+<h4 align="center">🌱  Operating Systems ...</h4>
 
-<p>
+<p align="center">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;&nbsp;
@@ -37,8 +39,8 @@
 
 <hr>
 
-<h4>🛠️ Tools and Platforms ...</h4>
-<p>
+<h4 align="center">🛠️ Tools and Platforms ...</h4>
+<p align="center">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
