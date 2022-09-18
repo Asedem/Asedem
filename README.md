@@ -54,4 +54,6 @@
 
 <hr>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asedem&area=true&hide_border=true&theme=gotham)  
+
 <h5 align="right">🎮 To have fun and spend time...</h5>
