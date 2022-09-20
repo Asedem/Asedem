@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Asedem&show_icons=true&theme=radical" alt="Asedem's Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Asedem&show_icons=true&theme=gotham" alt="Asedem's Stats"/>
 </p>
 
 <hr>
