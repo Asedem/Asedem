@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Asedem&show_icons=true&theme=gotham" alt="Asedem's Stats"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asedem&theme=tokyonight" alt="Asedem's Stats"/>
 </p>
 
 <hr>
@@ -54,6 +54,6 @@
 
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asedem&area=true&hide_border=true&theme=gotham)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asedem&area=true&hide_border=true&theme=react-dark)  
 
 <h5 align="right">🎮 To have fun and spend time...</h5>
