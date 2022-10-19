@@ -52,6 +52,8 @@
 
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asedem&area=true&hide_border=true&theme=react-dark)  
+<p align="center">
+    <img src="https://wakatime.com/share/@Asedem/4b2871d3-333c-4f06-87bf-2f3c4716a448.svg" alt="Languages" title="My Languages" width="750" height="450" style="border-radius:20px">
+</p>
 
 <h5 align="right">🎮 To have fun and spend time...</h5>
