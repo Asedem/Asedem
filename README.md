@@ -53,7 +53,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://wakatime.com/share/@Asedem/4b2871d3-333c-4f06-87bf-2f3c4716a448.svg" alt="Languages" title="My Languages" width="750" height="450" style="border-radius:20px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Asedem&theme=tokyonight&layout=compact&custom_title=My%20Timesinks" alt="Languages">
 </p>
 
 <h5 align="right">🎮 To have fun and spend time...</h5>
