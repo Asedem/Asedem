@@ -53,7 +53,7 @@
 <hr>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Asedem&theme=tokyonight&layout=compact&custom_title=My%20Timesinks%20(Last%207%20Days)" alt="Languages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Asedem&theme=tokyonight&layout=compact&custom_title=My%20Timesinks" alt="Languages">
 </p>
 
 <h5 align="right">🎮 To have fun and spend time...</h5>
