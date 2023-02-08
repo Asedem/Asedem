@@ -1,4 +1,4 @@
-![Normal](./wavesOpacity.png)
+![TopWaves](./wavesTop.png)
 
 <h1 align="center">Hi There 👋, I'm Asedem (Simon) 👩‍💻</h1>
 
@@ -59,3 +59,5 @@
 </p>
 
 <h5 align="right">🎮 To have fun and spend time...</h5>
+
+![TopWaves](./wavesBottom.png)
