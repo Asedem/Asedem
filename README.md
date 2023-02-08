@@ -5,7 +5,7 @@
 <p align='center'>I live in NRW, Germany 🇩🇪 and i attend the twelfth grade at school 🏫</p>
 
 <p align="center">
-    <a href="https://github.com/Asedem/Asedem">Techstack</a>
+    <a href="https://github.com/Asedem/Asedem/TECHSTACK.md">Techstack</a>
     ·
     <a href="https://github.com/Asedem/Asedem">Operating Systems</a>
     ·
