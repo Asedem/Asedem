@@ -1,4 +1,4 @@
-![Normal](./wavesOpacity.svg)
+![Normal](./wavesOpacity.png)
 
 <h1 align="center">Hi There 👋, I'm Asedem (Simon) 👩‍💻</h1>
 
