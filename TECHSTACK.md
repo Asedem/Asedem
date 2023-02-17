@@ -21,6 +21,4 @@
 
 # My Timesinks
 #### Here you can see the actual time that I am writing a specific programming language (Since OCT 15 2022)
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Asedem&theme=tokyonight&layout=compact&custom_title=My%20Timesinks" alt="Languages">
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Asedem&theme=tokyonight&layout=compact&custom_title=My%20Timesinks" alt="Languages">
