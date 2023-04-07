@@ -15,6 +15,8 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asedem&theme=tokyonight" alt="Asedem's Stats"/>
 </p>
 
+<p align='center'>Sometimes I have crazy ideas for projects. Check them out <a href="https://github.com/Asedem/Asedem/blob/main/PROJECTS.md">here</a>!</p>
+
 <br>
 
 ![TopWaves](./wavesBottom.png)
