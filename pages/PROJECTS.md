@@ -1,3 +1,5 @@
+![Banner](../assets/ideasBanner.png)
+
 ## CLI-Server Desktop
 
 A GUI System for CLI only Servers (like Debian without a desktop)
