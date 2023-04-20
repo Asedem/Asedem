@@ -16,6 +16,12 @@ It should contain realistic car physics and the same play system, as in the tv s
 
 ## Visual-IDE (Angular)
 
-Edit and create components visually, that it autowrites the code for you
+Edit and create components visually, that it auto writes the code for you
 
 Can be an IntelliJ Plugin for example
+
+## Horror Game
+
+The purpose of the game is that you have to try a building/place, where abnormal monsters live. The game can be played in a style, which is like a mix of "Counter Strike" and "SCP Secret Laboratory" (3v3 or 5v5)
+
+Another Idea is, that you are only playing the humans, that have to nuke the monsters "organisation". This Versions can probably contain more hardcoded or generated jumpscares.
