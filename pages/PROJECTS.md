@@ -20,6 +20,8 @@ Edit and create components visually, that it auto writes the code for you
 
 Can be an IntelliJ Plugin for example
 
+<br>
+
 ## Horror Game
 
 The purpose of the game is that you have to try a building/place, where abnormal monsters live. The game can be played in a style, which is like a mix of "Counter Strike" and "SCP Secret Laboratory" (3v3 or 5v5)
