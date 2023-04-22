@@ -16,6 +16,8 @@ This should not just be a Rocket League clone, but an adaption of the "Autoball"
 
 It should contain realistic car physics and the same play system, as in the tv show
 
+<a href="https://github.com/Asedem/Asedem/blob/main/pages/concepts/AUTOBALL.md"><img src="../assets/viewConceptButton.png" alt="View Concept"><a/>
+
 <br>
 
 ## Visual-IDE (Angular)
