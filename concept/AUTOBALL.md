@@ -18,7 +18,7 @@ The cars that are used in the Series from TV-Total where:
 <br>2010-2014: <a href="https://en.wikipedia.org/wiki/VW_Polo">VW Polo</a>
 <br>2022: <a href="https://en.wikipedia.org/wiki/Opel_Corsa_C">Open Corsa C</a>
 
-### Timer and Scores
+## Timer and Scores
 
 The original Timer design from the 2010-2014 seasons looked like:
 ![Original timer design](../assets/autoball/timerOrigianl.png)
@@ -40,3 +40,11 @@ The original Timer design from the 2010-2014 seasons looked like:
 </svg>
 ```
 </details>
+
+## Controls
+
+Devices:
+- Keyboard
+- Controller
+- Steering Wheel
+
