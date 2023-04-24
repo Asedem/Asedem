@@ -36,7 +36,7 @@ Another Idea is, that you are only playing the humans, that have to nuke the mon
 
 <br>
 
-## CordDB
+## CordDB <a href="https://github.com/Asedem/CordDB">🛈<a/>
 
 CordDB is a "Database", that stores data on a Discord Server, by using a Bot
 
