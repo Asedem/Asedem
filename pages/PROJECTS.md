@@ -16,7 +16,7 @@ This should not just be a Rocket League clone, but an adaption of the "Autoball"
 
 It should contain realistic car physics and the same play system, as in the tv show
 
-<a href="https://github.com/Asedem/Asedem/blob/main/concept/AUTOBALL.md"><img src="../assets/viewConceptButton.png" alt="View Concept"><a/>
+<a href="https://github.com/Asedem/Asedem/blob/main/concept/AUTOBALL.md"><img src="../assets/viewConceptButton.png" alt="View Concept" height="30px"><a/>
 
 <br>
 
@@ -33,3 +33,15 @@ Can be an IntelliJ Plugin for example
 The purpose of the game is that you have to try a building/place, where abnormal monsters live. The game can be played in a style, which is like a mix of "Counter Strike" and "SCP Secret Laboratory" (3v3 or 5v5)
 
 Another Idea is, that you are only playing the humans, that have to nuke the monsters "organisation". This Versions can probably contain more hardcoded or generated jumpscares.
+
+## CordDB
+
+CordDB is a "Database", that stores data on a Discord Server, by using a Bot
+
+The Database is a Key Value, or a WideColumn Database, but with a use of the Threads feature
+
+## ScratchQL
+
+The idea of this project is to create a MySQL Extension for scratch to store data "safely" in a database
+
+Dont talk about, that everyone can see the code of your project :D
