@@ -34,11 +34,15 @@ The purpose of the game is that you have to try a building/place, where abnormal
 
 Another Idea is, that you are only playing the humans, that have to nuke the monsters "organisation". This Versions can probably contain more hardcoded or generated jumpscares.
 
+<br>
+
 ## CordDB
 
 CordDB is a "Database", that stores data on a Discord Server, by using a Bot
 
 The Database is a Key Value, or a WideColumn Database, but with a use of the Threads feature
+
+<br>
 
 ## ScratchQL
 
