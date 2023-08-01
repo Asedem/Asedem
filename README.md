@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi There 👋, I'm Asedem (Simon) 👩‍💻</h1>
 
-<p align='center'>I live in NRW, Germany 🇩🇪 and I am currently writing my high school exams 🏫</p>
+<p align='center'>I live in NRW, Germany 🇩🇪 and I am currently studying computer science and mathematics 🏫</p>
 
 <p align="center">
     <b><a href="https://github.com/Asedem/Asedem/blob/main/pages/TECHSTACK.md">Techstack</a></b>
