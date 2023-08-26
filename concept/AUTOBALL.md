@@ -22,7 +22,7 @@ The cars that are used in the Series from TV-Total where:
 
 The original Timer design from the 2010-2014 seasons looked like:
 ![Original timer design](../assets/autoball/timerOrigianl.png)
-<br>I tried to replicate it and not it looks a bit like this:
+<br>I tried to replicate it and now it looks a bit like this:
 ![Original timer design](../assets/autoball/timerConcept.png)
 <details>
     <summary>The SVG code for the image</summary>
